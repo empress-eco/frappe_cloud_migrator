@@ -1,8 +1,7 @@
-<h1 align="center">Empress Cloud Migrator: Seamless Migration Simplified</h1>
-
 <p align="center">
   <img src="https://grow.empress.eco/uploads/default/original/2X/1/1f1e1044d3864269d2a613577edb9763890422ab.png" alt="Empress Cloud Migrator Logo" />
 </p>
+<h1 align="center">Empress Cloud Migrator: Seamless Migration Simplified</h1>
 <p align="center">
 Transition to the Cloud with ease and efficiency.
 <br />
